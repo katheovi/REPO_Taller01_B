@@ -1,5 +1,0 @@
-C:\Users\usuario\Desktop\taller B\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.exe
-C:\Users\usuario\Desktop\taller B\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.pdb
-C:\Users\usuario\Desktop\taller B\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.csprojResolveAssemblyReference.cache
-C:\Users\usuario\Desktop\taller B\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.exe
-C:\Users\usuario\Desktop\taller B\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.pdb
