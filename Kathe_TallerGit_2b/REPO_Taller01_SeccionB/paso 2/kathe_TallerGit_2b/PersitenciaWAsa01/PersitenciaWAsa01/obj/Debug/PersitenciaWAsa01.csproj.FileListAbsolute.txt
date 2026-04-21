@@ -1,0 +1,30 @@
+C:\Users\usuario\Desktop\taller B\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.exe
+C:\Users\usuario\Desktop\taller B\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.pdb
+C:\Users\usuario\Desktop\taller B\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\taller B\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.exe
+C:\Users\usuario\Desktop\taller B\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.pdb
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.exe
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.pdb
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.csprojResolveAssemblyReference.cache
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.exe
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.pdb
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB - copia\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.csprojResolveAssemblyReference.cache
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB - copia\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.exe
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB - copia\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.exe
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB - copia\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.pdb
+C:\Users\calle\Desktop\Calles\REPO_Taller01_SeccionB - copia\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.pdb
+C:\Users\calle\Desktop\2b\Calles_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.exe
+C:\Users\calle\Desktop\2b\Calles_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.pdb
+C:\Users\calle\Desktop\2b\Calles_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.csprojResolveAssemblyReference.cache
+C:\Users\calle\Desktop\2b\Calles_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.exe
+C:\Users\calle\Desktop\2b\Calles_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.pdb
+C:\Users\calle\Desktop\paso 2\Calles_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.exe
+C:\Users\calle\Desktop\paso 2\Calles_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.pdb
+C:\Users\calle\Desktop\paso 2\Calles_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.csprojResolveAssemblyReference.cache
+C:\Users\calle\Desktop\paso 2\Calles_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.exe
+C:\Users\calle\Desktop\paso 2\Calles_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.pdb
+C:\Users\Usuario\Desktop\Kathe_TallerGit_2b\REPO_Taller01_SeccionB\paso 2\kathe_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.exe
+C:\Users\Usuario\Desktop\Kathe_TallerGit_2b\REPO_Taller01_SeccionB\paso 2\kathe_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\bin\Debug\PersitenciaWAsa01.pdb
+C:\Users\Usuario\Desktop\Kathe_TallerGit_2b\REPO_Taller01_SeccionB\paso 2\kathe_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Kathe_TallerGit_2b\REPO_Taller01_SeccionB\paso 2\kathe_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.exe
+C:\Users\Usuario\Desktop\Kathe_TallerGit_2b\REPO_Taller01_SeccionB\paso 2\kathe_TallerGit_2b\PersitenciaWAsa01\PersitenciaWAsa01\obj\Debug\PersitenciaWAsa01.pdb
